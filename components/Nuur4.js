@@ -33,7 +33,7 @@ function Nuur4() {
   ];
   return (
     <>
-      <div>
+      <div className="px-10">
         <section data-layout="Process" className="pb-[107px]">
           <div className=" ">
             <div className="container">

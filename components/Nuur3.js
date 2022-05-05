@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function Nuur3() {
   return (
-    <div className="container py-14">
+    <div className="container py-14 px-10">
       <div className="grid md:grid-cols-2">
         <div className="text-center">
           <Image
