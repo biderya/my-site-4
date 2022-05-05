@@ -8,7 +8,7 @@ function Nuur1() {
   }, []);
   return (
     <>
-      <div className="container items-center py-20 space-y-12 lg:grid lg:grid-cols-12 lg:space-y-0">
+      <div className="container px-10 items-center py-20 space-y-12 lg:grid lg:grid-cols-12 lg:space-y-0">
         <div className="col-span-12 space-y-8 lg:col-span-5">
           <div className=" space-y-2">
             <h1 className="text-4xl font-semibold md:font-bold md:text-6xl ">
