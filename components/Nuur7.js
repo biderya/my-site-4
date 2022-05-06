@@ -17,7 +17,7 @@ function Nuur7() {
               <TabGroup.TabList className="grid grid-cols-4 w-full">
                 <TabGroup.Tab
                   index={0}
-                  className="h-12 px-12 transition-colors duration-150 border-b-2 border-gray-400 mx-4"
+                  className="h-12 px-12 transition-colors duration-350 border-b-2 border-gray-400 mx-4"
                   activeClassName="text-black border-b-4 border-gray-800 "
                   inactiveClassName="text-black"
                 >
@@ -25,7 +25,7 @@ function Nuur7() {
                 </TabGroup.Tab>
                 <TabGroup.Tab
                   index={1}
-                  className="h-12 px-12 transition-colors duration-150 border-b-2 border-gray-400 mx-4"
+                  className="h-12 px-12 transition-colors duration-350 border-b-2 border-gray-400 mx-4"
                   activeClassName="text-black border-b-4 border-gray-800"
                   inactiveClassName="text-black"
                 >
@@ -33,7 +33,7 @@ function Nuur7() {
                 </TabGroup.Tab>
                 <TabGroup.Tab
                   index={2}
-                  className="h-12 px-12 transition-colors duration-150 border-b-2 border-gray-400 mx-4"
+                  className="h-12 px-12 transition-colors duration-350 border-b-2 border-gray-400 mx-4"
                   activeClassName=" text-black border-b-4 border-gray-800"
                   inactiveClassName="text-black"
                 >
@@ -41,8 +41,8 @@ function Nuur7() {
                 </TabGroup.Tab>
                 <TabGroup.Tab
                   index={3}
-                  className="h-12 px-12 transition-colors duration-150 border-b-2 border-gray-400 mx-4"
-                  activeClassName="text-black border-b-4 border-gray-800"
+                  className="h-12 px-12 transition-colors duration-350 border-b-2 border-gray-400 mx-4"
+                  activeClassName="text-black border-b-4 border-gray-800 duration-350"
                   inactiveClassName="text-black"
                 >
                   Enterprise

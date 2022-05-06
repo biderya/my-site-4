@@ -51,7 +51,7 @@ function Header() {
               <button className=" bg-blue-600  h-12 overflow-hidden py-3 px-5 min-w-[140px] rounded-3xl text-white font-bold mx-5 hover:bg-[#1A2A55] ">
                 <div className="transform hover:-translate-y-16 transition duration-500 ease-in-out flex flex-col">
                   <span className="">Get started</span>
-                  <span className=" pt-10">Get started-1</span>
+                  <span className="pt-10">Get started-1</span>
                 </div>
               </button>
             </nav>
